@@ -158,3 +158,5 @@ export FZF_DEFAULT_OPTS=" \
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh # Source keybindings and Completions
 
+# Deno
+. "/home/ashish/.deno/env"
