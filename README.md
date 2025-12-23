@@ -42,8 +42,6 @@ looking to streamline their setups.
 > Some of these apps have the **config files** included in the repo, which are
 > marked with ⚙️. Also, my **favorite programs** and tools are marked with 💖.
 
-#### 🖥️ CLI/TUI Apps
-
 | 📚 Entry                 | ✨ App                                                                                                                                                                                                                                                              |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Shell**                | 💖 [zsh](https://zsh.sourceforge.io/) [⚙️](https://github.com/ashish0kumar/dotfiles/blob/main/.zshrc)                                                                                                                                                               |
@@ -62,13 +60,19 @@ looking to streamline their setups.
 | **System Fetch**         | [fastfetch](https://github.com/fastfetch-cli/fastfetch) [⚙️](https://github.com/ashish0kumar/dotfiles/blob/main/.config/fastfetch/config.jsonc)                                                                                                                     |
 | **Audio Visualizer** 	   | [cava](https://github.com/karlstav/cava) |
 
-#### 🔍 Other
+<details>
+
+<summary>🔍 <b>Other</b></summary>
+
+<br>
 
 | 📚 Entry                             | ✨ App                  |
 |---------------------------------------|--------------------------|
 | **Colorscheme**                       | 💖 [Catppuccin Mocha](https://catppuccin.com) |
 | **Font**                  		| [JetBrainsMono Nerd Font](https://www.jetbrains.com/lp/mono/) |
 | **Dotfiles Manager**              	| 💖 [GNU Stow](https://www.gnu.org/software/stow/) |
+
+</details>
 
 ---
 
